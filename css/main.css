@@ -1,0 +1,22 @@
+body {
+	height: 100vh;
+}
+
+.bg-c-red {
+	background-color: #d44e4e;
+}
+
+.light-blue {
+	height: 100px;
+	background-color: lightblue;
+}
+
+.blue {
+	height: 600px;
+	background-color: blue;
+}
+
+.green {
+	min-height: 100px;
+	background-color: green;
+}
