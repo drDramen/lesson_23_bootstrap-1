@@ -1,22 +1,9 @@
-body {
-	height: 100vh;
-}
-
 .bg-c-red {
 	background-color: #d44e4e;
 }
 
-.violet {
-	height: 600px;
-	background-color: #4810ca;
-}
 .white {
 	background-color: white;
-}
-.ocean {
-	width: 100%;
-	height: 500px;
-	background-color: #46dbdb;
 }
 
 .light-blue {
